@@ -20,7 +20,7 @@ The concept of this project is  to give the user a platform to use and experienc
 
 <h2>Weapon Exploration project walk-through:</h2>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtu.be/0hQuONLSz08)
  
 <p align="center">
 Main Room : <br/>

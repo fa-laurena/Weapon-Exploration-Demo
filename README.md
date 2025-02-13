@@ -23,12 +23,22 @@ The concept of this project is  to give the user a platform to use and experienc
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
  
 <p align="center">
-Importing Libraries : <br/>
-<img src="https://i.imgur.com/IfAIvpo.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Main Room : <br/>
+<img src="https://i.imgur.com/JbaexnU.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Data Evaluation and Cleaning : <br/>
-<img src="https://i.imgur.com/IuS9PbE.png"80%" alt="Disk Sanitization Steps"/>
+Choose your weapon : <br/>
+<img src="https://i.imgur.com/jBGNA2b.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Weapon Room : <br/>
+<img src="https://i.imgur.com/9Nr999W.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Feature Exploration : <br/>
+<img src="https://i.imgur.com/VC6gsx7.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+End Game Options : <br/>
+<img src="https://i.imgur.com/hWfXgtx.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 
  <h2>Summary</h2>
 This project is an interesting concept, yet not completed, i want to dive deep into it eventualy ...

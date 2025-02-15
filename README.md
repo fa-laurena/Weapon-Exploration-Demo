@@ -1,7 +1,7 @@
 <h1> Weapon Exploration - VR  </h1>
 
 <h2>Description</h2>
-The concept of this project is  to give the user a platform to use and experience on different types of weapons from all around the world, they can learn the back story about them and try them in a game environment...
+The concept of this prototype was to impliment a VR weapon game concept, used by combat instruction centers and personal use for weapon interest. The user would be able tu choose a weapon from all around the world, learn the story about the said weapon, and use it in a VR space build for the better use to the weapon. in the project bellow, the Handgun in the first prototype.
 <br />
 
 
@@ -9,9 +9,10 @@ The concept of this project is  to give the user a platform to use and experienc
 
 - <b>C#</b> 
 - <b>First person controller</b>
-- <b></b>
+- <b>UI Canvas</b>
+- <b>Scene navigation</b>
 
-<h2>PLatform  </h2>
+<h2>Platform  </h2>
 
 - <b>SDK</b> (21H2)
 - <b>Unity</b>
@@ -23,6 +24,9 @@ The concept of this project is  to give the user a platform to use and experienc
  ### [YouTube Demonstration](https://youtu.be/0hQuONLSz08)
  
 <p align="center">
+ Weapon Sketch : <br/>
+<img src="https://i.imgur.com/Ydk8VOV.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 Main Room : <br/>
 <img src="https://i.imgur.com/JbaexnU.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -41,7 +45,7 @@ End Game Options : <br/>
 
 
  <h2>Summary</h2>
-This project is an interesting concept, yet not completed, i want to dive deep into it eventualy ...
+The main features of this project is the user flow and UI options for the user to understand the Game concept easily and game play, the scene navigation, because there will be a lot of scene load, back and forth. Features like Gun reloading and bullet collision when shooting are the most complex in the first prototype, XR origin, GrabObject etc 
 <br />
 
 <!--

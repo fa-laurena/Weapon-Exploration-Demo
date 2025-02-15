@@ -42,6 +42,12 @@ Feature Exploration : <br/>
 End Game Options : <br/>
 <img src="https://i.imgur.com/hWfXgtx.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Handgun inspector : <br/>
+<img src="https://i.imgur.com/DVuVQgD.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Handgun inspector : <br/>
+<img src="https://i.imgur.com/pw62fq6.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 
  <h2>Summary</h2>

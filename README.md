@@ -25,28 +25,28 @@ The concept of this prototype was to impliment a VR weapon game concept, used by
  
 <p align="center">
  Weapon Sketch : <br/>
-<img src="https://i.imgur.com/Ydk8VOV.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Sketch.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Main Room : <br/>
-<img src="https://i.imgur.com/JbaexnU.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Main%20room.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Choose your weapon : <br/>
-<img src="https://i.imgur.com/jBGNA2b.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Weapon%20selection.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Weapon Room : <br/>
-<img src="https://i.imgur.com/9Nr999W.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Weapon%20room.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Feature Exploration : <br/>
-<img src="https://i.imgur.com/VC6gsx7.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Feature Exploration -Reload magazine-: <br/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Feature%20exploration-reload-.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 End Game Options : <br/>
-<img src="https://i.imgur.com/hWfXgtx.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/End%20game.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Handgun inspector : <br/>
-<img src="https://i.imgur.com/DVuVQgD.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Handgun inspector Grab : <br/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Handgun%20inspection%20grab.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Handgun inspector : <br/>
-<img src="https://i.imgur.com/pw62fq6.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Handgun inspector Manager : <br/>
+<img src="https://github.com/fa-laurena/Weapon-Exploration-Demo/blob/d753558966cbaffc11574a764cd4d14419ed3da5/Handgun%20inspection%20manager.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
